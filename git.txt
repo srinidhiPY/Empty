@@ -1,0 +1,19 @@
+*** to clone a repository ***
+	git clone <repository link>.git
+
+*** to update contents from repository to pc ***
+	git pull
+
+*** to update contents from pc to repository ***
+
+1) add contents to be pushed to repository
+	git add .
+
+2) add comments
+	git commit -m "comments"
+
+3) know status of repository
+	git status
+
+4) push contents from pc to online repository (this will ask for username and password for github)
+	git push -u

@@ -1,0 +1,37 @@
+Bibtex in reverse chronological order:
+--------------------------------------
+
+@ARTICLE{srinidhi19, 
+	author={C. L. {Srinidhi} and P. {Aparna} and J. {Rajan}}, 
+	journal={IEEE Transactions on Image Processing}, 
+	title={Automated Method for Retinal Artery/Vein Separation via Graph Search Metaheuristic Approach}, 
+	year={2019}, 
+	pages={1-1} 
+}
+
+@ARTICLE{srinidhi18,
+	title = "A visual attention guided unsupervised feature learning for robust vessel delineation in retinal images",
+	journal = "Biomedical Signal Processing and Control",
+	volume = "44",
+	pages = "110-126",
+	year = "2018",
+	author = "Chetan L. Srinidhi and P. Aparna and Jeny Rajan"
+}
+
+@INPROCEEDINGS{srinidhi17_ISBI, 
+	author={C. L. {Srinidhi} and P. {Rath} and J. {Sivaswamy}}, 
+	booktitle={2017 IEEE 14th International Symposium on Biomedical Imaging (ISBI 2017)}, 
+	title={A Vessel Keypoint Detector for junction classification}, 
+	year={2017}, 
+	pages={882-885}
+}
+
+@Article{srinidhi17_review,
+	author="L Srinidhi, Chetan and Aparna, P. and Rajan, Jeny",
+	title="Recent Advancements in Retinal Vessel Segmentation",
+	journal="Journal of Medical Systems",
+	year="2017",
+	volume="41",
+	number="4",
+	pages="70",
+}  

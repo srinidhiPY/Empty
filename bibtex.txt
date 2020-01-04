@@ -1,6 +1,13 @@
 Bibtex in reverse chronological order:
 --------------------------------------
 
+@Article{srinidhi2019deep,
+  title={Deep neural network models for computational histopathology: A survey},
+  author={Srinidhi, Chetan L and Ciga, Ozan and Martel, Anne L},
+  journal={arXiv preprint arXiv:1912.12378},
+  year={2019}
+}
+
 @ARTICLE{srinidhi19, 
 	author={C. L. {Srinidhi} and P. {Aparna} and J. {Rajan}}, 
 	journal={IEEE Transactions on Image Processing}, 

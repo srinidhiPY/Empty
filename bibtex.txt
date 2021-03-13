@@ -1,11 +1,19 @@
 Bibtex in reverse chronological order:
 --------------------------------------
+@article{srinidhi2021self,
+  title={Self-supervised driven consistency training for annotation efficient histopathology image analysis},
+  author={Srinidhi, Chetan L and Kim, Seung Wook and Chen, Fu-Der and Martel, Anne L},
+  journal={arXiv preprint arXiv:2102.03897},
+  year={2021}
+}
 
-@Article{srinidhi2019deep,
+@article{srinidhi2020deep,
   title={Deep neural network models for computational histopathology: A survey},
   author={Srinidhi, Chetan L and Ciga, Ozan and Martel, Anne L},
-  journal={arXiv preprint arXiv:1912.12378},
-  year={2019}
+  journal={Medical Image Analysis},
+  pages={101813},
+  year={2020},
+  publisher={Elsevier}
 }
 
 @ARTICLE{srinidhi19, 

@@ -1,5 +1,13 @@
 Bibtex in reverse chronological order:
 --------------------------------------
+
+@article{srinidhi2021improving,
+  title={Improving Self-supervised Learning with Hardness-aware Dynamic Curriculum Learning: An Application to Digital Pathology},
+  author={Srinidhi, Chetan L and Martel, Anne L},
+  journal={arXiv preprint arXiv:2108.07183},
+  year={2021}
+}
+
 @article{srinidhi2021self,
   title={Self-supervised driven consistency training for annotation efficient histopathology image analysis},
   author={Srinidhi, Chetan L and Kim, Seung Wook and Chen, Fu-Der and Martel, Anne L},

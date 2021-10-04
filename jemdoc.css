@@ -17,7 +17,7 @@ html {
 }
 
 body { 
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   color: #000;
   background-color: #fcfcfc; 
   text-align:left; /* for IE */
@@ -136,7 +136,7 @@ strong {
 
 
 h1, h2, h3 {
-    color: #36578d;
+    color: #446eb2;
     margin-top: 0.7em;
     margin-bottom: 0.5em;
     padding-bottom: 0.2em;

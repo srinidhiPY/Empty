@@ -13,13 +13,13 @@ body {
 }
 */
 html {
-  background-color: #ffffcc; 
+  background-color: #ffffff; 
 }
 
 body { 
   font-family: 'Helvetica Neue', sans-serif;
   color: #000;
-  background-color: #ffffff; 
+  background-color: #ffffcc; 
   text-align:left; /* for IE */
   margin-top: 30px; 
   margin-bottom: 30px;
@@ -66,7 +66,7 @@ body {
 }
 
 tt {
-    background: #ffffcc;
+    background: #ffffff;
 }
 
 pre, tt {
@@ -136,7 +136,7 @@ strong {
 
 
 h1, h2, h3 {
-    color: #527bbd;
+    color: #36578d;
     margin-top: 0.7em;
     margin-bottom: 0.5em;
     padding-bottom: 0.2em;

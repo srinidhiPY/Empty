@@ -71,7 +71,7 @@ tt {
 
 pre, tt {
     font-size: 90%;
-    font-family: monaco, monospace;
+    font-family: Helvetica, sans-serif;
 }
 
 a, a > tt {
@@ -140,7 +140,7 @@ h1, h2, h3 {
     margin-top: 0.7em;
     margin-bottom: 0.5em;
     padding-bottom: 0.2em;
-    line-height: 1.0;
+    line-height: 1.5;
     padding-top: 0.5em;
     border-bottom: 1px solid #aaaaaa;
 }

@@ -1,6 +1,13 @@
 Bibtex in reverse chronological order:
 --------------------------------------
 
+@article{rangrej2022consistency,
+  title={Consistency driven Sequential Transformers Attention Model for Partially Observable Scenes},
+  author={Rangrej, Samrudhdhi B and Srinidhi, Chetan L and Clark, James J},
+  journal={arXiv preprint arXiv:2204.00656},
+  year={2022}
+}
+
 @article{srinidhi2021improving,
   title={Improving Self-supervised Learning with Hardness-aware Dynamic Curriculum Learning: An Application to Digital Pathology},
   author={Srinidhi, Chetan L and Martel, Anne L},
